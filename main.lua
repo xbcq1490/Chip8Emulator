@@ -434,7 +434,7 @@ function love.keypressed(key)
         end
     end
     if key == "space" then
-        chip8.running = chip8.running == true and true or false
+        chip8.running = not chip8.running
     end
 end
 
