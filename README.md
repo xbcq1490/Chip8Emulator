@@ -3,7 +3,7 @@
 ***
 
 A simple CHIP8 emulator written in Lua using the LOVE2D library
-This is my **first project** using love2d, so the code might be bad. **BUT** its still usable.
+This is my **first project** using love2d, so the code might be bad. **BUT** it's still usable.
 
 ## ✨ Features
 
@@ -12,7 +12,7 @@ This is my **first project** using love2d, so the code might be bad. **BUT** its
 - **Sound** - Simple beep sound when ST (sound timer) is active
 - **Input** - Hex keypad thats mapped to a keyboard
 - **Rom loading** - Drag and drop a `.ch8` rom binary
-- **Debbuging** - Window title shows the pc
+- **Debugging** - Window title shows the pc
 
 ## 🎮 Controls
 
